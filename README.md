@@ -42,7 +42,7 @@ Sou uma pessoa organizada, dedicada e tenho facilidade para trabalhar em equipe.
 
 Início: Janeiro de 2026  
 Status: **Cursando**
-Término previsto: 2027
+<p> Término previsto: 2027 </p>
 
 
 ### Ensino Médio
@@ -50,7 +50,7 @@ Término previsto: 2027
 
 Início: Janeiro de 2025  
 Status: **Cursando**
-Término previsto: 2027
+<p> Término previsto: 2027 </p>
 
 ---
 
