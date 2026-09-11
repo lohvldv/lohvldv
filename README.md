@@ -42,12 +42,15 @@ Sou uma pessoa organizada, dedicada e tenho facilidade para trabalhar em equipe.
 
 Início: Janeiro de 2026  
 Status: **Cursando**
+Término previsto: 2027
+
 
 ### Ensino Médio
 **SESI CIC — Curitiba, PR**
 
 Início: Janeiro de 2025  
 Status: **Cursando**
+Término previsto: 2027
 
 ---
 
