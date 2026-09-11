@@ -1,7 +1,7 @@
 <h1 align="center">✰ Lorrana Valdivia ✰ </h1>
 
 <p align="center">
-  <strong>Estudante de Desenvolvimento de Sistemas</strong> 💻
+  <strong>Estudante de Desenvolvimento de Sistemas</strong> 
 </p>
 
 <p align="center">
